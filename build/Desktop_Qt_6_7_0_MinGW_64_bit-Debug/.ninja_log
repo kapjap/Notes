@@ -1,0 +1,15 @@
+# ninja log v5
+6	822	7417349383836128	untitled8_autogen/timestamp	6c485df3ae3d5df2
+6	822	7417349383836128	C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled8_autogen/mocs_compilation.cpp	6c485df3ae3d5df2
+835	4037	7417349416557310	CMakeFiles/untitled8.dir/mainwindow.cpp.obj	49d01237c4787899
+6	822	7417349383836128	untitled8_autogen/mocs_compilation.cpp	6c485df3ae3d5df2
+6	822	7417349383836128	C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled8_autogen/timestamp	6c485df3ae3d5df2
+822	3660	7417349412769316	CMakeFiles/untitled8.dir/main.cpp.obj	7fb7b470c6039b72
+829	3748	7417349413636425	CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj	3d6faf93a425ed2c
+4037	4293	7417349419101813	untitled8.exe	a063cec9fa658651
+131	189	7416491609477346	untitled8_autogen/EWIEGA46WW/qrc_gg.cpp	64e66b676ad6d4cd
+131	189	7416491609477346	C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled8_autogen/EWIEGA46WW/qrc_gg.cpp	64e66b676ad6d4cd
+189	357	7416491611181684	CMakeFiles/untitled8.dir/untitled8_autogen/EWIEGA46WW/qrc_gg.cpp.obj	4f44738f4820d72b
+842	3934	7417349415550031	CMakeFiles/untitled8.dir/example1.cpp.obj	6b63362998b3af3e
+863	4030	7417349416476913	CMakeFiles/untitled8.dir/form.cpp.obj	b58dfb0799a65555
+177	1808	7417210194800733	CMakeFiles/untitled8.dir/form2.cpp.obj	ff482001b6f3207c

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../imegion/icons8-calculator-100.png</file>
+    </qresource>
+</RCC>

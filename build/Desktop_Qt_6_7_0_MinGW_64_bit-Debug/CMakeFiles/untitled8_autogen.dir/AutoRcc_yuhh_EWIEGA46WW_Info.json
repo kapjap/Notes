@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled8_autogen",
+	"CMAKE_BINARY_DIR" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/fg/untitled8",
+	"CMAKE_SOURCE_DIR" : "C:/fg/untitled8",
+	"INCLUDE_DIR" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled8_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/imegion \u0427 \u044a\u044e\u044f\u0448\u00a0/photo_2024-03-20_17-43-33.jpg"
+	],
+	"LOCK_FILE" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/untitled8_autogen.dir/AutoRcc_yuhh_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "yuhh" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_yuhh.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/untitled8_autogen.dir/AutoRcc_yuhh_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/fg/untitled8/yuhh.qrc",
+	"VERBOSITY" : 0
+}

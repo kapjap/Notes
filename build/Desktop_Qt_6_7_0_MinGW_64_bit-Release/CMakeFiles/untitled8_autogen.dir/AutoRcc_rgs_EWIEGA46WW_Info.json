@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/untitled8_autogen",
+	"CMAKE_BINARY_DIR" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/fg/untitled8",
+	"CMAKE_SOURCE_DIR" : "C:/fg/untitled8",
+	"INCLUDE_DIR" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/untitled8_autogen/include",
+	"INPUTS" : [ "C:/imegion/icons8-calculator-100.png" ],
+	"LOCK_FILE" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/untitled8_autogen.dir/AutoRcc_rgs_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "rgs" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_rgs.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/fg/untitled8/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/untitled8_autogen.dir/AutoRcc_rgs_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/fg/untitled8/rgs.qrc",
+	"VERBOSITY" : 0
+}
